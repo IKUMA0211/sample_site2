@@ -68,7 +68,7 @@ nav ul{
 
 nav ul li{
     float: left;
-    width: calc(100%/6);
+    width: 16.66%;
     height: 66px;
     text-align: center;
     border: #CCC 1px solid;
